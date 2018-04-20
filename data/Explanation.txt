@@ -1,1 +1,6 @@
 ===================================== FILL YOUR EXPLANATION BELOW ===============================================================================
+as seen in the driver.py file i've made a list of words from each text file from input
+vowel and consonant ratio is noted 
+best score i took it as .4
+and max sub clusters as<7 ( imported sklearn.cluster kmeans)
+Finally got optimised sub clusters .
